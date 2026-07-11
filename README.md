@@ -1,33 +1,46 @@
 # UK COVID-19 Employment Trends Dashboard
 
-## Overview
+## Project Overview
 
-This project analyses the impact of the COVID-19 pandemic on employment trends across the United Kingdom using Tableau. The dashboard highlights changes in employment over time, compares regional performance, and identifies patterns across industries. The aim is to transform raw employment data into meaningful visual insights that support data-driven decision-making.
+This project explores the impact of the COVID-19 pandemic on employment trends across the United Kingdom using Tableau. The dashboard combines multiple visualisations to examine regional employment patterns and presents the information in an interactive format to support data exploration and comparison.
+
+The project was developed as part of a Business Analytics module, with a focus on transforming raw data into meaningful visual insights through dashboard design and data visualisation techniques.
 
 ---
 
-## Objectives
+## Dashboard Preview
 
-- Analyse employment trends during COVID-19
-- Compare employment rates across UK regions
-- Explore industry-level employment changes
-- Build an interactive Tableau dashboard
-- Present findings through effective data storytelling
+> *Add a screenshot of your Tableau dashboard here.*
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## Live Dashboard
+
+🔗 **View the interactive dashboard on Tableau Public:**
+
+https://public.tableau.com/app/profile/genevieve.elysse/viz/BATableau-Group1/Map?publish=yes
+---
+
+## Project Objectives
+
+- Analyse employment trends during the COVID-19 pandemic.
+- Compare employment data across UK regions.
+- Present employment information using interactive visualisations.
+- Communicate findings through an easy-to-use Tableau dashboard.
 
 ---
 
 ## Dataset
 
-The dataset contains UK employment statistics collected during the COVID-19 period.
+The dashboard is based on employment and COVID-19 related datasets used within the Business Analytics project.
 
-Variables include:
-
-- Employment Rate
-- Region
-- Industry
-- Month
-- Year
-- Employment Percentage
+The data includes information related to:
+- Employment trends
+- UK regions
+- Time periods
+- COVID-19 indicators
 
 ---
 
@@ -37,26 +50,20 @@ Variables include:
 - Microsoft Excel
 - Data Cleaning
 - Data Visualisation
-- Dashboard Design
 
 ---
 
 ## Dashboard Features
 
-✔ Interactive filters
+The dashboard includes several interactive visualisations, including:
+- Line Chart
+- Bar Chart
+- Map Visualisation
+- Heatmap
+- Area Chart
+- Text Table
 
-✔ Regional comparison
-
-✔ Employment trend analysis
-
----
-
-## Key Insights
-
-- Employment declined significantly during the early stages of the pandemic.
-- Some UK regions experienced faster recovery than others.
-- Service-based industries showed larger employment fluctuations.
-- Employment gradually improved following the easing of restrictions.
+Interactive filters allow users to explore and compare employment trends across different regions and time periods.
 
 ---
 
@@ -66,27 +73,40 @@ Variables include:
 - Data Analysis
 - Dashboard Development
 - Tableau
+- Data Visualisation
 - Business Intelligence
-- Data Storytelling
 - Analytical Thinking
+- Storytelling with Data
 
 ---
 
 ## Repository Structure
 
 ```
-data/
 dashboard/
+data/
 images/
-report/
 README.md
 ```
 
 ---
 
-## Future Improvements
+## How to View the Dashboard
 
-- Create a Power BI version
-- Include predictive forecasting
-- Connect to live employment data
-- Expand analysis using demographic variables
+### Option 1
+
+Open the interactive dashboard using the Tableau Public link above.
+
+### Option 2
+
+Download the Tableau workbook from the `dashboard` folder and open it using Tableau Desktop or Tableau Public Desktop.
+
+---
+
+## Author
+
+**Genevieve Elysse**
+
+BSc (Hons) Computer Science and Advanced Technology
+
+University of Portsmouth
