@@ -104,7 +104,3 @@ Download the Tableau workbook from the `dashboard` folder and open it using Tabl
 ## Author
 
 **Genevieve Elysse**
-
-BSc (Hons) Computer Science and Advanced Technology
-
-University of Portsmouth
