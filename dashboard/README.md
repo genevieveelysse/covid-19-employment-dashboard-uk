@@ -4,7 +4,7 @@
 
 View the interactive dashboard on Tableau Public:
 
-https://public.tableau.com/app/profile/genevieve.elysse/viz/BATableau-Group1/Map?publish=yes
+https://public.tableau.com/app/profile/genevieve.elysse/viz/BATableau-Group1/DashboardFinal
 
 ## Local Version
 
