@@ -20,7 +20,7 @@ The project was developed as part of a Business Analytics module, with a focus o
 
 🔗 **View the interactive dashboard on Tableau Public:**
 
-https://public.tableau.com/app/profile/genevieve.elysse/viz/BATableau-Group1/Map?publish=yes
+https://public.tableau.com/app/profile/genevieve.elysse/viz/BATableau-Group1/DashboardFinal
 ---
 
 ## Project Objectives
