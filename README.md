@@ -10,8 +10,6 @@ The project was developed as part of a Business Analytics module, with a focus o
 
 ## Dashboard Preview
 
-> *Add a screenshot of your Tableau dashboard here.*
-
 ![Dashboard](images/dashboard.png)
 
 ---
