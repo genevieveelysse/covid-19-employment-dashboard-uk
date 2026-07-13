@@ -18,7 +18,7 @@ The project was developed as part of a Business Analytics module, with a focus o
 
 🔗 **View the interactive dashboard on Tableau Public:**
 
-https://public.tableau.com/app/profile/genevieve.elysse/viz/BATableau-Group1/DashboardFinal
+https://public.tableau.com/app/profile/genevieve.elysse/viz/COVID-19UKEmploymentDashboard/DashboardFinal#1
 ---
 
 ## Project Objectives
