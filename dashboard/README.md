@@ -4,7 +4,7 @@
 
 View the interactive dashboard on Tableau Public:
 
-https://public.tableau.com/app/profile/genevieve.elysse/viz/BATableau-Group1/DashboardFinal
+https://public.tableau.com/app/profile/genevieve.elysse/viz/COVID-19UKEmploymentDashboard/DashboardFinal#1
 
 ## Local Version
 
