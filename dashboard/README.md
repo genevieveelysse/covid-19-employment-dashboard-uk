@@ -10,6 +10,6 @@ https://public.tableau.com/app/profile/genevieve.elysse/viz/BATableau-Group1/Das
 
 Download and open:
 
-BA Tableau.twb
+BA Tableau.twbx
 
 using Tableau Desktop or Tableau Public Desktop.
